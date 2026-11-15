@@ -1,4 +1,4 @@
-# Learning Pythia with the LHC $gg \rightarrow t \bar{t} $ simulations
+# Learning Pythia with the LHC 
 
 A learning notebook following Sections 3 to 5 of the [PYTHIA 8.3 Worksheet](https://www.pythia.org/pdfdoc/worksheet8312.pdf), written with the PYTHIA Python interface.
 
@@ -32,10 +32,6 @@ The notebook also answers the worksheet's questions on the shape of the $p_T$ an
 - `numpy`, `matplotlib`, `jupyter`
 
 The notebook was run with PYTHIA 8.312.
-
-
-Event generation is done in a Python loop, so the 1000-event runs take a few minutes in total. Lower `N_EVENTS` and `N` in the notebook for a quick test.
-
 ## References
 
 - Worksheet: <https://www.pythia.org/pdfdoc/worksheet8312.pdf>
