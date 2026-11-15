@@ -1,4 +1,4 @@
-# First steps with PYTHIA 8: top-pair events at the LHC
+# Learning Pythia with the LHC $gg \rightarrow t \bar{t} $ simulations
 
 A learning notebook following Sections 3 to 5 of the [PYTHIA 8.3 Worksheet](https://www.pythia.org/pdfdoc/worksheet8312.pdf), written with the PYTHIA Python interface.
 
